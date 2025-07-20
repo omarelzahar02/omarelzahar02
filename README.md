@@ -48,7 +48,10 @@
 <h3 align="center">🗄️ Databases & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,figma,vscode,docker,aws,jenkins,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,docker,aws,jenkins&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,opencv&perline=5" />
 </p>
 
 ---
