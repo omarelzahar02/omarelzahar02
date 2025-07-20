@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Elzahar</h1>
 <h3 align="center">A Passionate Computer Engineering Graduate | Mobile & Backend Developer</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9f1366bba2f.gif" alt="dev gif" width="600"/>
-</p>
+<!-- <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" width="600"/>
+</p> -->
 
 ---
 
@@ -53,37 +53,23 @@
 
 ---
 
-<!-- <h3 align="center">🔥 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarelzahar02&theme=tokyonight&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarelzahar02&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelzahar02&layout=compact&theme=tokyonight" />
-</p>
-
---- -->
-
-
 <h3 align="center">🌟 Most Popular Projects 🌟</h3>
 
 <p align="center">
   <a href="https://github.com/omarelzahar02/cReddit-CrossPlatform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=cReddit-CrossPlatform&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=cReddit-CrossPlatform&theme=tokyonight&description_lines_count=3" />
   </a>
   <a href="https://github.com/omarelzahar02/License-Plate-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=License-Plate-Recognition&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=License-Plate-Recognition&theme=tokyonight&description_lines_count=3" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/omarelzahar02/Online-Collaborative-Text-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=Online-Collaborative-Text-Editor&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=Online-Collaborative-Text-Editor&theme=tokyonight&description_lines_count=3" />
   </a>
   <a href="https://github.com/omarelzahar02/Desktop-Learning-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=Desktop-Learning-Platform&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarelzahar02&repo=Desktop-Learning-Platform&theme=tokyonight&description_lines_count=3" />
   </a>
 </p>
 
